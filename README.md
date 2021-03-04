@@ -1,16 +1,49 @@
 ### Hi there 👋
 
-<!--
-**corgu/corgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Coral Guillot Calvo
 
-Here are some ideas to get you started:
+I'm Coral Guillot. I'm a web developer. Welcome to my page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Final project**            | A webapp to do to make an inventory control through a data base. | Android Studio, C#, etc. |
+| **Something else worked on** | A webapp to do search a database for employees and departments within it. | Java              |
+
+## Skills
+I have great skill creating user interfaces, because I have a great imagination.
+
+#### This Skill
+
+- Studies
+- Achievements
+- Evidence
+
+#### Another Skill
+
+Another skill, I have a great ability to work in a team, as I believe that what one person cannot contribute, another will contribute.
+
+- I achieved to improve my capabilities during my work.
+- I have contributed to the growth of my peers while doing my first project.
+
+## Education
+
+#### IES Tubalcain (2018 to 2021)
+
+- OOP, MVC
+- C#, C++
+- Java, JavaScript, Mysql
+- Python, Odoo
+
+#### Any other qualifications
+
+I consider myself a very collaborative person and eager to learn. That's why when I start working I like to keep studying to keep learning.
+
+## Hobbies
+
+I love playing videogames and for this reason I would like to learn how to develop them.
+
+## 📫 How to reach me:
+
+Email: coral.guillot.calvo@iestubalcain.net
